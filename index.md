@@ -5,7 +5,9 @@ Coding with the JHB Microsoft Developer community
 
 Looking for a community of fellow developers? Then our Developer User Group or DUG for short.
 
-Our events are scheduled on [JHBMSDUG Meetup](https://www.meetup.com/jhbmsdug/) so make sure you join our group and RSVP when you will be joining us! This helps us for catering and SWAG/prizes purposes.
+Our events are scheduled on __Meetup__ so make sure you join our group and RSVP when you will be joining us! This helps us for catering and SWAG/prizes purposes:
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 80%; padding-top: 120px;"><a href="https://www.meetup.com/jhbmsdug/" data-iframely-url="//iframely.net/dIv78rC"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 ## Speaking opportunities
 
