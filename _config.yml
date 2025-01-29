@@ -1,3 +1,10 @@
-title: JHBMSDUG - Johannesburg Microsoft Developer User Group
+title: JHBMSDUG
 description: A community for developers that work with Microsoft technologies in Johannesburg and surrounding areas.
 theme: minima
+social_links:
+  #  - { platform: sessonize,      user_url: "https://www.sessonize.com/jhbmsdug" }
+  #  - { platform: meetup,         user_url: "https://www.meetup.com/jhbmsdug" }
+    - { platform: github,         user_url: "https://github.com/jhbmsdug" }
+  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+    - { platform: twitter,        user_url: "https://twitter.com/jhbmsdug" }
+    - { platform: x,              user_url: "https://x.com/jhbmsdug" }

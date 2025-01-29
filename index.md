@@ -1,6 +1,3 @@
-# JHBMSDUG
-Coding with the JHB Microsoft Developer community
-
 ## Join our Developer User Group
 
 Looking for a community of fellow developers? Then our Developer User Group or DUG for short.
